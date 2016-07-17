@@ -1,0 +1,1 @@
+19.  The code fails to execute since the use of var in this code  places the variable on the global scope meaning alert loses its innate ability to send the hello and world message.

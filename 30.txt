@@ -1,0 +1,4 @@
+30.
+a. This produces an object date with the current time and  date.
+b. Tue Jan 20 2009 00:00:00 GMT-0800 (Pacific Standard Time) - This produces an object date with a specified time at midnight.
+c. Using the valueOf property, this will take the values that make up the date and allow you to subtract the values of the two dates as if they were standard numbers.
